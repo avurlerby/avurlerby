@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/avurlerby?style=social">&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/avurlerby?style=for-the-badge">
   
   
   
