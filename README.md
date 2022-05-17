@@ -17,7 +17,5 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
   
-  https://forthebadge.com/images/badges/certified-steve-bruhle.svg
-  https://img.shields.io/twitter/follow/avurlerby?style=social
-
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/avurlerby?style=social">
 </center>
