@@ -10,12 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <center>
-  
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/avurlerby?style=social">&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/avurlerby?style=for-the-badge">
-  
+  ![Twitter Follow](https://img.shields.io/twitter/follow/avurlerby?style=social) &nbsp;
+  ![GitHub followers](https://img.shields.io/github/followers/avurlerby?style=for-the-badge) &nbsp;
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/avurlerby/portfolio-web?style=flat-square) &nbsp;
   
   
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
