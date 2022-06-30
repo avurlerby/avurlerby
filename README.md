@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Afolabi Omotoso
 - 👀 I’m interested in DevOps | Software Development...
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/omotoso-afolabi/)
-- Website: https://afolabiomotoso.com/
+- or Check my Website: https://afolabiomotoso.com/
 
 <!---
 avurlerby/avurlerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
