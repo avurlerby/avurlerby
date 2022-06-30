@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avurlerby
+- 👋 Hi, I’m Afolabi Omotoso
 - 👀 I’m interested in DevOps | Software Development...
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/omotoso-afolabi/)
 - Website: https://afolabiomotoso.com/
