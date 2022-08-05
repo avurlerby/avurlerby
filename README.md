@@ -5,7 +5,7 @@
 
 Follow my Second GitHub Account: https://github.com/afolabiomotoso
 
-I also have lots of projects on GitLab and BitBucket.
+I also have lots of projects on [GitLab](https://gitlab.com/afolabi88) and BitBucket.
 
 <!---
 avurlerby/avurlerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
