@@ -3,6 +3,10 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/omotoso-afolabi/)
 - or Check my Website: https://afolabiomotoso.com/
 
+Follow my Second GitHub Account: https://github.com/afolabiomotoso
+
+I also have lots of projects on GitLab and BitBucket.
+
 <!---
 avurlerby/avurlerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
