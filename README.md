@@ -3,7 +3,7 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/omotoso-afolabi/)
 - or Check my Website: https://afolabiomotoso.com/
 
-Follow my Second GitHub Account: https://github.com/afolabiomotoso
+Follow my Second GitHub Account [here](https://github.com/afolabiomotoso)
 
 I also have lots of projects on [GitLab](https://gitlab.com/afolabi88) and BitBucket.
 
